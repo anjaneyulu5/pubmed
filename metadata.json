@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PubMed Insight Extractor and summarize",
+  "description": "An application that searches for PubMed articles and uses Gemini to extract key information, summaries, and insights from the abstracts.",
+  "requestFramePermissions": []
+}
